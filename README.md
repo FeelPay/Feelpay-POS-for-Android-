@@ -1,6 +1,6 @@
 # FeelPay POS
 
-![Version](https://img.shields.io/github/v/release/FeelPay/Feelpay-POS-for-Android-/?label=Latest%20Version)
+![Version](https://img.shields.io/github/v/release/FeelPay/Feelpay-POS-for-Android-?label=Latest%20Version)
 
 FeelPay POS is a modern POS software designed for a seamless plug-and-play experience. It is perfect for managing inventory, handling multiple roles, and operating efficiently in various business environments.
 
