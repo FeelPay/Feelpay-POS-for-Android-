@@ -35,9 +35,9 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 
 
 ## Download
-Click [here](https://github.com/FeelPay/desktop/releases) to download the latest version of FeelPay Desktop POS.
+Click [here](https://github.com/FeelPay/Feelpay-POS-for-Android-/releases) to download the latest version of FeelPay POS for Android.
 
-![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734763237/Screenshot_2024-12-20_105610_c4zjjf.png)
-![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681608/Screenshot_2024-12-20_105551_vggqol.png)
-![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681609/Screenshot_2024-12-20_105821_pm3p8w.png)
-![Screenshot of FeelPay Desktop POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734681609/Screenshot_2024-12-20_105857_xyuqde.png)
+![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971968/WhatsApp_Image_2024-12-23_at_19.35.17_3e94b5e0_mridwp.jpg)
+![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971969/WhatsApp_Image_2024-12-23_at_19.35.17_d2483c6d_xno0cc.jpg)
+![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971968/WhatsApp_Image_2024-12-23_at_19.35.18_4165c5cf_nwset6.jpg)
+![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971969/WhatsApp_Image_2024-12-23_at_19.35.18_384da4ba_jzyh7e.jpg)
