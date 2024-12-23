@@ -37,6 +37,8 @@ FeelPay POS is a modern POS software designed for a seamless plug-and-play exper
 ## Download
 Click [here](https://github.com/FeelPay/Feelpay-POS-for-Android-/releases) to download the latest version of FeelPay POS for Android.
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/51312956-ecd6-4201-b131-c9ee37fa3d71)
+
 ![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971968/WhatsApp_Image_2024-12-23_at_19.35.17_3e94b5e0_mridwp.jpg)
 ![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971969/WhatsApp_Image_2024-12-23_at_19.35.17_d2483c6d_xno0cc.jpg)
 ![Screenshot of FeelPay Mobile POS](https://res.cloudinary.com/dreamnerd/image/upload/v1734971968/WhatsApp_Image_2024-12-23_at_19.35.18_4165c5cf_nwset6.jpg)
